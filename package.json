@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1184.0",
+    "axios": "^0.27.2",
+    "enquirer": "^2.3.6",
+    "inquirer": "^8.2.4",
+    "lodash": "^4.17.21",
+    "oracledb": "^5.4.0",
+    "prompt": "^1.3.0",
+    "random-js": "^2.1.0"
+  }
+}
