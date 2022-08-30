@@ -5,6 +5,7 @@
 --  DDL for Table FAVORITE_SNACKS
 --------------------------------------------------------
 
+/* SQL statement that creates the table for the program */
   CREATE TABLE "OIT#JTBT2"."FAVORITE_SNACKS" 
    (	"BYU_ID" VARCHAR2(9 BYTE), 
 	"FULL_NAME" VARCHAR2(30 BYTE), 

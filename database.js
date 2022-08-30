@@ -80,6 +80,10 @@ const getDate = () => {
     return today
 }
 
+/**
+ * Creates table if it doesn't exist in the database.
+ * @returns void
+ */
 async function createTable() {
     const conn = await oracle.getConnection(params);
     await conn.execute('DECLARE\n' +
