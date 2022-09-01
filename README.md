@@ -11,7 +11,7 @@ This program uses the following three APIs:
 ## Setting Up the Program
 ### 1. Clone repository
 On your terminal, run these lines of code separately, and then install the npm packages
-`git clone https://github.com/byu-oit/tan-technical-challenge`
+`git clone https://github.com/Tidbit0519/EzVending`
 `cd tan-techical-challenge`
 `npm install`
 
@@ -21,7 +21,7 @@ This program requires connection to AWS Account `byu-org-trn` and OracleDB. Logi
 After logging in, Click on PowerUser-797871726256 > Command line or programmatic access > PowerShell > Option 1: Set AWS environment variables
 It will copy the environment variables, paste this onto the Terminal. Make sure you are in the right directory before doing so.
 
-![alt text](https://github.com/byu-oit/tan-technical-challenge/blob/main/images/aws_environment_variables.png)
+![alt text](https://github.com/Tidbit0519/EzVending/blob/main/images/aws_environment_variables.png)
 
 
 You might want to consider turning on GlobalProtect VPN if the program fails any point to connect to OracleDB.
@@ -36,7 +36,7 @@ The program will first verify your connection to AWS and OracleDB. After that, y
 
 Upon validation, the main menu will be displayed with a welcome message and the program brand logo.
 
-![alt text](https://github.com/byu-oit/tan-technical-challenge/blob/main/images/main_menu.png)
+![alt text](https://github.com/Tidbit0519/EzVending/blob/main/images/main_menu.png)
 
 You are presented with a few options to choose from.
 
